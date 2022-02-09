@@ -1,3 +1,3 @@
-# Padr-o-Flyweight
+# Padrao-Flyweight
 
-Atividade feita em aula.
+Atividade feita em aula de estrutura de dados.
